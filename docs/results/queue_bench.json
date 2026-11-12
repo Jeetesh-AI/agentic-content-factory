@@ -1,0 +1,7 @@
+{
+  "jobs_queued": 5,
+  "jobs_completed": 5,
+  "completion_rate_pct": 100.0,
+  "batch_total_ms": 25.8,
+  "avg_job_ms": 5.2
+}
